@@ -6,8 +6,8 @@ package com.android.vedioviewdemo;
 
 public class AdvertBean {
 
-    public static final String TYPE_VEDIO = "type_vedio";
-    public static final String TYPE_IMAGE = "type_image";
+    public static final String TYPE_VEDIO = "2";
+    public static final String TYPE_IMAGE = "1";
 
     private String advertPath;
     private String advertType;
